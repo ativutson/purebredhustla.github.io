@@ -1,6 +1,6 @@
 # The Music Artist Database 
 
-This web app allows users to look up general information about any artists such as label, genre, and short bio.
+This [web app] (https://purebredhustla-github-io.vercel.app/) allows users to look up general information about any artists such as label, genre, and short bio.
 
 # Technologies
 
@@ -15,7 +15,7 @@ This web app allows users to look up general information about any artists such 
 
 # Approach
 
-The AudioDB API (https://www.theaudiodb.com/api_guide.php) is integrated using JQuery which pulls the free basic data with a free test API key. The image in the banner of the web page is provided by www.unsplash.com. The footer color is matched with the banner color using Digital Color Meter on Mac. Raleway downloaded from Google Fonts in the main font.
+[The AudioDB API] (https://www.theaudiodb.com/api_guide.php) is integrated using JQuery which pulls the free basic data with a free test API key. The image in the banner of the web page is provided by www.unsplash.com. The footer color is matched with the banner color using Digital Color Meter on Mac. Raleway downloaded from Google Fonts in the main font.
 
 # Future improvements
 
